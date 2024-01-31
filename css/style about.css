@@ -111,7 +111,7 @@ header {
 .articles {
     padding: 0 10%;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     margin-bottom: 10%;
 }
 
@@ -136,7 +136,7 @@ header {
     padding: 3%;
     color:#406800d2;
     font-weight: bolder;
-    font-size: 27px;
+    font-size: 25px;
     line-height: 40px;
 }
 
