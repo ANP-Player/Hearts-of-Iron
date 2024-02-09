@@ -5,7 +5,6 @@ $('.carousel').slick({
 	slidesToScroll: 1,
 	prevArrow:"<img src = 'img/Arrow_left.svg'>",
   nextArrow:"<img src = 'img/Arrow_right.svg'>",
- 
   autoplaySpeed: 1000,
   arrows: true,
   speed: 2000,
